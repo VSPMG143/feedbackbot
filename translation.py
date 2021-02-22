@@ -1,7 +1,7 @@
 from config import Config
 
 class Translation(object):
-      START = str(Config.START) + "\n\nWant some developers [press me](https://t.me/PIRATED143)")"
+      START = str(Config.START) + "\n\nWant some developers [press me](https://t.me/PIRATED143))"
 
       RULES = Config.RULES
 
