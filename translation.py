@@ -10,17 +10,17 @@ class Translation(object):
 
       ABOUT = """**MY DETAILS:**
 
-```🤖My Name:``` [Feedback Ns Bot](https://t.me/Feedback_Nsbot)
+```🤖My Name:``` [Feedback  Bot](https://t.me/BotGram_TorrentGroup)
     
 ```📝 Language:``` [Python 3](https://www.python.org/)
 
-```🧰 Framework:``` [Pyrogram](https://github.com/pyrogram/pyrogram)
+```🧰 Framework:``` [Pyrogram]
 
-```👨🏻‍💻 Developer:``` [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/Ns_AnoNymouS)
+```👨🏻‍💻 Developer:``` [𝐧𝐲𝐦GAGAN𝐨𝐮𝐬](https://t.me/EXPERTINBOTMAKING)
                
-```📢 Channel:``` [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+```📢 Channel:``` [BOT UPDATES](https://t.me/BotGram_TorrentGroup)
 
-```👥 Group:``` [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+```👥 Group:``` [ BOT SUPPORT](https://t.me/andhrabots)
 
-Inspired By @stemlime_bot
+Inspired By  [GAGAN](https://t.me/EXPERTINBOTMAKING)
 """
